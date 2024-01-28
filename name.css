@@ -1,0 +1,81 @@
+.nav-head
+{
+    height: 70px;
+    width: 100%;
+    display: flex;
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: aqua;
+    /* padding: 10px; */
+}
+.welcome
+{
+    height: 100px;
+    width: 2100px;
+    margin-left: 20px
+}
+.nav-head-bar
+{
+    height: 100px;
+    width: 100%;
+    display: flex;
+   
+    margin-left: 10px;
+
+}
+.nav-head-bar p 
+{
+    margin-left: 25px;
+    font-size: 1.5rem;
+    text-align: center;
+    cursor: pointer;
+    font-weight: bold;
+}
+.nav-head-bar p:hover
+{
+    background-color: black;
+    color: white;
+    height: 36px;
+}
+.azad-details
+{
+    height: 50px;
+    width: 100%;
+    /* margin-top: 110px; */
+    margin-top: 10px;
+    display: flex;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+
+
+}
+.azad 
+{
+    height: 50px;
+    width: 900px;
+    margin-left: 20px;
+    line-height: 5px;
+    font-size: 14px;
+    margin-top: -5px;
+}
+.marks
+{
+    line-height: 5px;
+    font-size: 14px;
+    margin-top: -5px;
+    
+}
+.marks p
+{
+    text-align: center;
+}
+.ranjit-details
+{
+    height: 50px;
+    width: 100%;
+    margin-top: 10px;
+    /* margin-top: 110px; */
+    display: flex;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+
+}
